@@ -4,8 +4,9 @@
 - video games
 - retrogaming (more about learning than playing)
 ## I’m currently learning ...
-- Computer science (NSI terminalle for french)
+- Python
 - Dart/Flutter
+- Html
 ## I'm curently working on ...
 - Ametask : a to do list application with flutter
 ## How to reach me ...
