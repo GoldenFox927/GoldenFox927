@@ -10,7 +10,6 @@
 ## I'm curently working on ...
 - Ametask : a to do list application with flutter
 ## How to reach me ...
-- On discord at :
 
 <!---
 GoldenFox927/GoldenFox927 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
